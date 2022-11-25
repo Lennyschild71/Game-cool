@@ -1,0 +1,25 @@
+.playground {
+  position: relative;
+
+  width: 1920px;
+
+  height: 1080px;
+
+  border: 1px solid blue;
+}
+
+.player {
+  position: absolute;
+
+  background-color: red;
+
+  width: 20px;
+
+  height: 20px;
+}
+.stein {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: gray;
+}
